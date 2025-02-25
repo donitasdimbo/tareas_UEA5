@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+}
+
+p{
+    color:darkblue;
+    font-size: 20px;
+    text-align: center; 
+}
+
+
+/* pagina 2*/
+.body2{
+    background-color:chartreuse;
+
+}
+img{
+    width: 100%;
+}

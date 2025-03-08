@@ -1,0 +1,37 @@
+
+body{
+    background-color: beige;
+}
+
+h1{
+    color: darkslategray;
+}
+
+.parr1{
+    margin: 10 px;
+    font-size: 25 px;
+    text-align: justify;
+    font: monospace 150%;
+}
+p{
+    margin: 10px ;
+    font-size: 25 px;
+    text-align: justify;
+    font: small-caps 100%/200% serif;
+}
+
+.container{
+    gap: 50 px;
+}
+
+.div1{
+    background-color:blanchedalmond ;
+}
+
+.div2{
+    background-color: burlywood;
+}
+
+.div3{
+    background-color: darksalmon;
+}

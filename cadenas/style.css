@@ -6,6 +6,18 @@ body{
 p{
     font-size: 25px;
     color: cornflowerblue;
-    text-align: center;
+    text-align:justify;
     
 }
+
+div{
+    color:azure; 
+    padding: 55px;
+    font-size: 20px;
+    background-color: brown;
+    border:15px inset greenyellow;
+    border-radius: 20px;
+    margin: 15px ;
+    text-align: center;
+}
+=

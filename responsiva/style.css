@@ -1,0 +1,61 @@
+
+*{
+ box-sizing: border-box;   
+}
+
+
+.derecha 
+{
+    background-color: burlywood;
+    font-size:30px ;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    float:left;
+    width: 33%;
+    height: 700px;
+    margin: 2px;
+   
+}
+
+.izquierda 
+{
+    background-color: antiquewhite;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    float: left;
+    width: 33%;
+    height: 700px;
+    margin: 2px;
+}
+
+.centro 
+{
+    background-color: beige;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 25px;
+    float: left;
+    width: 30%;
+    height: 700px;
+    margin: 2px;
+}
+
+
+.alineado{
+    margin: auto;
+    width: 90%;
+}
+
+img{
+    /*width: 100%;*/
+    max-width: 90%;
+    height: auto;
+
+}
+
+@media screen and (max-width:800px) {
+    .derecha, .izquierda, .centro {
+        width: 100%;
+    }
+}
